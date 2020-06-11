@@ -1,0 +1,2 @@
+#app-ads.txt file for UncleCiba Team
+google.com, pub-2911419431566003, DIRECT, f08c47fec0942fa0
